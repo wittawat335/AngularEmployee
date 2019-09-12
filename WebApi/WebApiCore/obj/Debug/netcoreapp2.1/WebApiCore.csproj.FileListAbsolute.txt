@@ -1,0 +1,13 @@
+D:\Git\AngularEmployee\WebApi\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.deps.json
+D:\Git\AngularEmployee\WebApi\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.runtimeconfig.json
+D:\Git\AngularEmployee\WebApi\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.runtimeconfig.dev.json
+D:\Git\AngularEmployee\WebApi\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.dll
+D:\Git\AngularEmployee\WebApi\WebApiCore\bin\Debug\netcoreapp2.1\WebApiCore.pdb
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.csproj.CoreCompileInputs.cache
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cache
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.RazorAssemblyInfo.cs
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.AssemblyInfoInputs.cache
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.AssemblyInfo.cs
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.RazorTargetAssemblyInfo.cache
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.dll
+D:\Git\AngularEmployee\WebApi\WebApiCore\obj\Debug\netcoreapp2.1\WebApiCore.pdb

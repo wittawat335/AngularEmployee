@@ -54,7 +54,9 @@ D:\Git\AngularEmployee\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompi
 D:\Git\AngularEmployee\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\Newtonsoft.Json.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Cors.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.Cors.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Mvc.dll
@@ -66,6 +68,7 @@ D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\WebGrease.dll
 D:\Git\AngularEmployee\WebApi\WebApi\bin\EntityFramework.xml
 D:\Git\AngularEmployee\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.Cors.xml
 D:\Git\AngularEmployee\WebApi\WebApi\bin\Newtonsoft.Json.xml
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Helpers.xml
@@ -79,11 +82,7 @@ D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
 D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
 D:\Git\AngularEmployee\WebApi\WebApi\bin\Antlr3.Runtime.pdb
 D:\Git\AngularEmployee\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.dll
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.pdb
-D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Cors.dll
-D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.Cors.dll
-D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.Cors.xml
