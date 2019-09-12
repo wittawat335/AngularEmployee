@@ -84,3 +84,6 @@ D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.c
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.csproj.CopyComplete
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.dll
 D:\Git\AngularEmployee\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Cors.dll
+D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+D:\Git\AngularEmployee\WebApi\WebApi\bin\System.Web.Http.Cors.xml
