@@ -22,13 +22,22 @@ export class EmployeeService {
     return this.http.post<Employee>(environment.apiURL + '/Employee/',  
     employee, httpOptions);  
   }  
+  // updateEmployee(employee: Employee): Observable<Employee> {
+  //   const httpOptions = { headers: new HttpHeaders({ 'Content-Type': 'application/json' }) };
+  //   return this.http.put<Employee>(environment.apiURL  + '/Employee/', employee, httpOptions);
+  // }
+
+  // deleteEmployeeById(employeeid: string): Observable<number> {
+  //   const httpOptions = { headers: new HttpHeaders({ 'Content-Type': 'application/json' }) };
+  //   return this.http.delete<number>(environment.apiURL + '/Employee?id=' + employeeid, httpOptions);
+  // }
   updateEmployee(employee: Employee): Observable<Employee> {
     const httpOptions = { headers: new HttpHeaders({ 'Content-Type': 'application/json' }) };
     return this.http.put<Employee>(environment.apiURL  + '/Employee/', employee, httpOptions);
   }
-
+  
   deleteEmployeeById(employeeid: string): Observable<number> {
     const httpOptions = { headers: new HttpHeaders({ 'Content-Type': 'application/json' }) };
-    return this.http.delete<number>(environment.apiURL + '/Employee?id=' + employeeid, httpOptions);
+    return this.http.delete<number>(environment.apiURL + '/Employee/' + employeeid, httpOptions);
   }
 }

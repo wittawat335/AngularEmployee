@@ -58,7 +58,7 @@ export class EmployeeComponent implements OnInit {
       this.employeeService.createEmployee(employee).subscribe(
         () => {
           this.dataSaved = true;
-          this.massage = 'Record saved Successfully';
+          this.massage = 'บันทึกข้อมูลเรียบร้อย';
           this.loadAllEmployees();
           this.employeeIdUpdate = null;
           this.employeeForm.reset();
@@ -69,7 +69,7 @@ export class EmployeeComponent implements OnInit {
       employee.EmpId = this.employeeIdUpdate;
       this.employeeService.updateEmployee(employee).subscribe(() => {
         this.dataSaved = true;
-        this.massage = 'Record Updated Successfully';
+        this.massage = 'อัพเดทข้อมูลเรียบร้อย';
         this.loadAllEmployees();
         this.employeeIdUpdate = null;
         this.employeeForm.reset();
@@ -77,14 +77,13 @@ export class EmployeeComponent implements OnInit {
     }
   }
   deleteEmployee(employeeId: string) {
-    if (confirm("Are you sure you want to delete this ?")) {  
+    if (confirm("คุณต้องการลบข้อมูลนี้ใช่หรือไม่ ?")) {  
       this.employeeService.deleteEmployeeById(employeeId).subscribe(() => {
         this.dataSaved = true;
-        this.massage = 'Record Deleted Succefully';
+        this.massage = 'ลบข้อมูลเรียบร้อย';
         this.loadAllEmployees();
         this.employeeIdUpdate = null;
         this.employeeForm.reset();
-  
       });
     }
   }
